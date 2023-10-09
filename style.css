@@ -1,31 +1,31 @@
 .box1{
     border: 2px solid #B7E6C7;
-    height: 115px;
-    width: 115px;
-    margin: 2.5px;
-    padding: 1.5px;
+    height: 165px;
+    width: 165px;
+    margin: 50rem;
+    padding: 15px;
 }
 
 .contexto{
     border: 2px dashed #BCD39C;
     height: 150px;
     width: 175px;
-    margin: 2.5px;
-    padding: 1.5px;
+    margin: 50rem;
+    padding: 15px;
 }
 
 .box2{
     border: 2px solid #FFFC99;
-    height: 120px;
-    width: 120px;
-    margin: 2.5px;
-    padding: 1.5px;
+    height: 160px;
+    width: 160px;
+    margin: 50rem;
+    padding: 15px;
 }
 
 .tolkien{
     border: 2px dashed #8E8358;
     height: 130px;
     width: 155px;
-    margin: 2.5px;
-    padding: 1.5px;
+    margin: 50rem;
+    padding: 15px;
 }
